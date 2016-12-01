@@ -1,1 +1,1 @@
-# Welcome! This is a backup of my blog! [blog](https://yangzhongxun.github.io/)
+# Welcome! This is a backup of my [blog](https://yangzhongxun.github.io/)!
